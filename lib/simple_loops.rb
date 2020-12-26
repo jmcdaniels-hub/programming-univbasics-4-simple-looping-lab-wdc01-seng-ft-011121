@@ -25,8 +25,8 @@ def output_array(array = ["Be yourself;", "everyone else is already taken", "- O
 end 
 
 
-def return_string_array(array = [5, 4, 3, 2, 1])
-  
+def return_string_array(array = ["5", "4", "3", "2", "1"])
+  p array
 end 
 
 
