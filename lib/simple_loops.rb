@@ -26,7 +26,7 @@ end
 
 
 def return_string_array(array = ["5", "4", "3", "2", "1"]
-  p array
+  print array
 end 
 
 
